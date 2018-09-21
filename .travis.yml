@@ -10,6 +10,7 @@ addons:
 
 language: perl
 perl:
+  - "5.28"
   - "5.22"
   - "5.20"
   - "5.18"
